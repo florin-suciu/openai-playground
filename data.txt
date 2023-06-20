@@ -1,0 +1,8 @@
+my name is Florin Suciu
+I worked for:
+- Softvision - as a Software Developer
+- HP Software - as a QA Automation Engineer
+- Inspiricon - as a Software Developer
+- Betfair - as a QA Automation Engineer
+- NTT Data - as a Senior QA Engineer
+- PacketFabric - as a Senior QA Engineer
